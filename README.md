@@ -1,6 +1,6 @@
 # Python Script to ping servers and alert via Mobile Phone when your server is down 
 
-#### This scripts helps in monitoring your site irrespective to whether your computer is logged in or not and show an alert message when the site is down .
+#### This scripts helps in monitoring your site irrespective to whether your computer is logged in or not and show an alert message to your mobile phone when the site is down .
 
 ## Installation Steps 
 ### Sinch configuration 
