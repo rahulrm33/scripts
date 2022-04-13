@@ -8,7 +8,7 @@
 ###### Try to copy authenticate token key and secret key.
 ### Script initialization
 ###### Fork this repository
-###### create a new virtual environment for python execution by command => virtualenv myenv
-###### install all dependences with command => 1. pip install requests 2. pip install sinchsms
+###### Create a new virtual environment for python execution by command => virtualenv myenv
+###### Install all dependences with command => 1. pip install requests 2. pip install sinchsms
 ###### With all the required information including mobile number , token id, secret key are given , notify which site to be get pinged in appropriate variable .  
 ##### In order to execute them alive make the script to run in Task scheduler which continuously execute the script. 
