@@ -13,4 +13,4 @@
 4. Fork this repository.
 5. Add all the required information . 
 6. With all the required information including mobile number , token id, secret key are given , notify which site to be get pinged in script file .  
-##### In order to execute them alive make the script to run in Task scheduler which continuously execute the script. 
+### In order to execute them alive make the script to run in Task scheduler which continuously execute the script. 
