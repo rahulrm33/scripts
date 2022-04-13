@@ -5,7 +5,7 @@
 ## Installation Steps 
 ### Sinch configuration 
 ###### Create a new account in sinch.com .
-###### Try to copy authenticate token key and secret key.
+###### Try to generate your own authenticate token key and secret key.
 ### Script initialization
 ###### Fork this repository
 ###### Create a new virtual environment for python execution by command => virtualenv myenv
