@@ -4,7 +4,7 @@
 
 ## Installation Steps 
 ### fast2sms configuration 
-1. Create a new account in www.fast2sms.com.com .
+1. Create a new account in www.fast2sms.com .
 2. Try to generate your own authorisation token key .
 ### Script initialization
 1. Create a new virtual environment for python execution by command => virtualenv myenv
