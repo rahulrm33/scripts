@@ -8,7 +8,7 @@
 2. Try to generate your own authenticate token key and secret key.
 ### Script initialization
 1. Create a new virtual environment for python execution by command => virtualenv myenv
-2. Move to that environment by command `cd myenv`
+2. Move to that environment by command `myenv\Script\activate`
 3. Install all dependences with command => 1. `pip install requests` 2. `pip install sinchsms`
 4. Fork this repository.
 5. Add all the required information . 
